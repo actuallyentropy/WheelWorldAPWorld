@@ -270,7 +270,8 @@ class WheelWorldItem(Item):
 LOCKED_ITEMS: set[str] = {
     "Commuter Wheel",
     "Handy Wheel", "Ears Bars", "Bullhorn Bars", "Tilt Saddle", "Fin Fork", "Part Perceiver", 
-    "07 Train Gear2",
+    "07 Train Gear2", "Mini Wheel", "Secret Searcher", "Stars Wheel", "The Uproad", "Mudder Fork",
+    "01 Train Small",
     "Rusty Bars", "Rusty Fork", "Rusty Frame", "Rusty Seat", "Rusty Train", "Rusty Wheel",
 }
 
