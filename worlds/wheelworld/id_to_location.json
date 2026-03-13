@@ -191,12 +191,6 @@
       "id": 131
     }
   ],
-  "1c79745e-6777-45e6-a277-2e02f3b76131": [
-    {
-      "name": "The K.O.B",
-      "id": 132
-    }
-  ],
   "e954886c-978c-444a-b450-450fbed0ac3b": [
     {
       "name": "The Rocket - 1",
@@ -269,12 +263,6 @@
     {
       "name": "The Doyenne - 2",
       "id": 148
-    }
-  ],
-  "f49e5347-885b-4aa0-88b0-d0f3e8cd865a": [
-    {
-      "name": "Race Stub Extravaganza",
-      "id": 149
     }
   ],
   "741959e2-382f-4e18-a90d-3a6fc95ac31c": [
@@ -399,7 +387,7 @@
   ],
   "970c6ce5-885b-4fe2-91b3-845ab9e2c00a": [
     {
-      "name": "PLACEHOLDER_20",
+      "name": "Vineyard N+1 Guy Near Vintage Grinder Box",
       "id": 170
     }
   ],
@@ -537,7 +525,7 @@
   ],
   "12ef053e-3748-4c7f-855a-f1743b530ee7": [
     {
-      "name": "PLACEHOLDER_43",
+      "name": "Preserves Velodrome Box",
       "id": 193
     }
   ],
@@ -663,7 +651,7 @@
   ],
   "6edc6620-4c40-4814-a985-57c19ca17437": [
     {
-      "name": "PLACEHOLDER_64",
+      "name": "Port Corp-Shop-Roof-To-Containers Box",
       "id": 214
     }
   ],
@@ -681,7 +669,7 @@
   ],
   "6d89050a-0086-492d-b2d9-522176c8c396": [
     {
-      "name": "PLACEHOLDER_67",
+      "name": "Port Roof Above Corp Shop Box",
       "id": 217
     }
   ],
@@ -693,19 +681,19 @@
   ],
   "e671cb9b-20c2-453c-8793-f9e6119f2277": [
     {
-      "name": "PLACEHOLDER_69",
+      "name": "Port Triple Building Roof Box",
       "id": 219
     }
   ],
   "d5ba9a8e-00be-45b1-a2a6-39f7a0b073ce": [
     {
-      "name": "PLACEHOLDER_70",
+      "name": "East Port Shipping Containers Box",
       "id": 220
     }
   ],
   "3a495b2a-585f-41f0-9946-a8129e56a18c": [
     {
-      "name": "PLACEHOLDER_71",
+      "name": "Paceline Cooks Box",
       "id": 221
     }
   ],
@@ -729,7 +717,7 @@
   ],
   "f40bf585-b188-4ea1-86db-679703eef4ce": [
     {
-      "name": "PLACEHOLDER_75",
+      "name": "North Port Between Two Trucks Box",
       "id": 225
     }
   ],
@@ -741,25 +729,25 @@
   ],
   "c0b34785-db41-4e98-9aa7-e1e7e31081ee": [
     {
-      "name": "PLACEHOLDER_77",
+      "name": "Wasteland City Northwest Box",
       "id": 227
     }
   ],
   "20d033c0-2237-4724-a5c7-82f6ebd2b282": [
     {
-      "name": "PLACEHOLDER_78",
+      "name": "South Port On Top Of Containers Box",
       "id": 228
     }
   ],
   "8183ddd8-ed53-4c20-82f5-10718457f0f3": [
     {
-      "name": "PLACEHOLDER_79",
+      "name": "Wasteland City Southeast Box",
       "id": 229
     }
   ],
   "9e2df887-4b2e-4bce-ae21-7645c95784cb": [
     {
-      "name": "PLACEHOLDER_80",
+      "name": "Southeast Port Behind Ramp Box",
       "id": 230
     }
   ],
@@ -777,7 +765,7 @@
   ],
   "8a259bee-5182-4c99-a3bb-003cbace7cc2": [
     {
-      "name": "PLACEHOLDER_83",
+      "name": "Port On Top Of Container Near Silo Box",
       "id": 233
     }
   ],
@@ -801,7 +789,7 @@
   ],
   "a64adb26-3272-48d7-aac5-1ecf66880b63": [
     {
-      "name": "PLACEHOLDER_87",
+      "name": "Wasteland Center City Under Underpass Box",
       "id": 237
     }
   ],
@@ -819,31 +807,31 @@
   ],
   "a9e0360d-b08f-4a0f-aed0-fdc7479b0805": [
     {
-      "name": "PLACEHOLDER_90",
+      "name": "Wasteland City Bell Shrine Box",
       "id": 240
     }
   ],
   "c2a49466-34f6-4e55-9782-c030f36cc010": [
     {
-      "name": "PLACEHOLDER_91",
+      "name": "Junkyard Pond Shipping Container Box",
       "id": 241
     }
   ],
   "df783427-aebc-4a5f-a361-4201c5fb1a72": [
     {
-      "name": "PLACEHOLDER_92",
+      "name": "Steel Wheelman Box",
       "id": 242
     }
   ],
   "77c209c5-5e95-4ac6-8f1a-85b17997a09a": [
     {
-      "name": "PLACEHOLDER_93",
+      "name": "West Port On Top Of Shipping Container Box",
       "id": 243
     }
   ],
   "d71778f7-57e7-4396-a618-ccc57026bee4": [
     {
-      "name": "PLACEHOLDER_94",
+      "name": "Southeast Dump Peninsula Box",
       "id": 244
     }
   ],
@@ -861,19 +849,19 @@
   ],
   "cd2ba619-e90d-4b40-bb7d-4ed35eff5ae0": [
     {
-      "name": "PLACEHOLDER_97",
+      "name": "Northeast Port Warehouse Box",
       "id": 247
     }
   ],
   "f96859a0-7cd7-4a81-a1d5-191858d568bc": [
     {
-      "name": "PLACEHOLDER_98",
+      "name": "Mount Send East Box",
       "id": 248
     }
   ],
   "656bd51b-877c-424b-85bd-ae191b341e3e": [
     {
-      "name": "PLACEHOLDER_99",
+      "name": "Mount Send West Box",
       "id": 249
     }
   ],
